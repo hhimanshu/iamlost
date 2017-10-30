@@ -12,8 +12,10 @@ class App extends Component {
                 </header>
                 <div className="main">
                     <section>
-                        <div className="part1">One</div>
-                        <div className="part2">Two</div>
+                        <div className="parts">One</div>
+                        <div className="parts">Two</div>
+                        <div className="parts">Three</div>
+                        <div className="parts">Four</div>
                     </section>
                 </div>
             </div>

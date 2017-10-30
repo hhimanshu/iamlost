@@ -32,6 +32,6 @@ section {
   lost-utility: clearfix;
 }
 
-div {
-  lost-column: 1/2;
+.parts {
+  lost-column: 1/4;
 }
